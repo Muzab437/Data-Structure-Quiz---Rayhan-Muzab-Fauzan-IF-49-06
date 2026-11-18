@@ -1,1 +1,1 @@
-# Data-Structure-Quiz---Rayhan-Muzab-Fauzan-IF-49-06
+# Data-Structure-Quiz-Programming
